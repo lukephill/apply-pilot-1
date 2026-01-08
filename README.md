@@ -1,5 +1,7 @@
 # Job Application Automation System
 
+![Claude Code for Job Applications](assets/cc-for-job-applications.png)
+
 **Not a prompt. A system.**
 
 An 8-agent AI system that transforms job descriptions into complete, tailored application packages. Built with Claude Code.
